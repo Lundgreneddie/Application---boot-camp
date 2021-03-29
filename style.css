@@ -1,0 +1,29 @@
+/* Example styling of a h1 element */
+h1 {
+
+  color: #3d8f74;
+font-family: verdana;
+text-align: center;
+font-size: 50px;
+}
+
+.Paragraf-center{
+  text-align: center;
+  font-family: Verdana;
+  font-size: large;
+}
+
+h2 {
+  color: #3d8f74;
+  font-family: verdana;
+  font-size: xx-large;
+}
+h3 {
+font-family: verdana;
+text-align: left;
+}
+
+.Picture {
+  text-align: right;
+  padding-right: 70px;
+}
